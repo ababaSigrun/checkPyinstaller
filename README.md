@@ -1,1 +1,5 @@
 # checkPyinstaller
+
+
+
+pyinstaller してもexeファイルができない…
